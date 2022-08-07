@@ -3,6 +3,4 @@
 - *Display Flex*
 - *Opacity Property*
 
-### ![Image](https://)
-
-### [Live Link](https://)
+### [Live Link](https://live-class-project-2.vercel.app)
